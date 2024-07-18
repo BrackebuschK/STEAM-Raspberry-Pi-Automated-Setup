@@ -14,5 +14,5 @@ sudo pip3 install adafruit-circuitpython-mpr121 --break-system-packages
 sudo pip install mfrc522-python --break-system-packages
 
 # Install Mosquitto and MQTT libraries
-sudo apt-get install mosquitto mosquitto-clients
+sudo apt-get install mosquitto mosquitto-clients -y
 pip3 install paho-mqtt --break-system-packages
