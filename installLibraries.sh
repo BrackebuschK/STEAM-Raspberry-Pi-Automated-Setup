@@ -12,6 +12,8 @@ sudo pip3 install adafruit-circuitpython-mcp230xx --break-system-packages
 sudo pip3 install adafruit-circuitpython-ads7830 --break-system-packages
 sudo pip3 install adafruit-circuitpython-mpr121 --break-system-packages
 sudo pip install mfrc522-python --break-system-packages
+sudo pip3 install adafruit-circuitpython-pn532 --break-system-packages # Install the PN532 library
+
 
 # Install Mosquitto and MQTT libraries
 sudo apt-get install -y mosquitto mosquitto-clients
